@@ -5,6 +5,12 @@
       "hash": "3584c0668159e08a215b1673111ac62cfe0fc18c3eac7db6df309545a0273f91",
       "role": "admin",
       "status": "active"
+    },
+    {
+      "username": "sds",
+      "hash": "a1a805d72008926c5a2ece95b1d18a6e10457e70c8a539e484dc191e05acf5df",
+      "role": "user",
+      "status": "active"
     }
   ]
 }
