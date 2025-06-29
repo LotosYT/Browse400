@@ -10,18 +10,12 @@
       "username": "sds",
       "hash": "a1a805d72008926c5a2ece95b1d18a6e10457e70c8a539e484dc191e05acf5df",
       "role": "user",
-      "status": "active"
+      "status": "banned"
     },
     {
       "username": "L400",
       "hash": "b881ceea4df55e9a517c71025de2ca31e6b91c2b659b85c52d03060edc08f254",
       "role": "l400",
-      "status": "active"
-    },
-    {
-      "username": "1",
-      "hash": "4f7ccfa0f7299ae0ff65e0fe418719c110462e0a7a295462cad4309eb1a9ebc9",
-      "role": "admin",
       "status": "active"
     }
   ]
