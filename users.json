@@ -4,7 +4,7 @@
       "username": "sd",
       "hash": "3584c0668159e08a215b1673111ac62cfe0fc18c3eac7db6df309545a0273f91",
       "role": "user",
-      "status": "banned"
+      "status": "active"
     },
     {
       "username": "sds",
@@ -16,12 +16,6 @@
       "username": "L400",
       "hash": "b881ceea4df55e9a517c71025de2ca31e6b91c2b659b85c52d03060edc08f254",
       "role": "l400",
-      "status": "active"
-    },
-    {
-      "username": "2",
-      "hash": "a875da802a3eb42ca9cf09c190da85cf7473c2716c90f0e7baf01e5db9833a80",
-      "role": "user",
       "status": "active"
     }
   ]
