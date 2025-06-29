@@ -2,9 +2,9 @@
   "users": [
     {
       "username": "sd",
-      "hash": "30f5bcd6a41a8b3f3bbda4e86a92529d34a78406b1e6f5b658590cd5822fbe32",
+      "hash": "3584c0668159e08a215b1673111ac62cfe0fc18c3eac7db6df309545a0273f91",
       "role": "user",
-      "status": "active"
+      "status": "banned"
     },
     {
       "username": "sds",
