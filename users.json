@@ -17,6 +17,13 @@
       "hash": "b881ceea4df55e9a517c71025de2ca31e6b91c2b659b85c52d03060edc08f254",
       "role": "l400",
       "status": "active"
+    },
+    {
+      "username": "L4002",
+      "hash": "52bdf94acc8da072c098efad94e0980d1cdc5fb065ee2b5861921424df7377b5",
+      "role": "user",
+      "status": "active",
+      "email": ""
     }
   ]
 }
