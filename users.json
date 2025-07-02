@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "username": "sd",
-      "hash": "3584c0668159e08a215b1673111ac62cfe0fc18c3eac7db6df309545a0273f91",
-      "role": "user",
-      "status": "active"
-    },
-    {
       "username": "L400",
       "hash": "09bb82d53bb3cb6dcca3033ea1d1c650404561585df1fb384287b893d5762a21",
       "role": "l400",
@@ -22,6 +16,13 @@
     {
       "username": "ad",
       "hash": "e2bd93c1284497a49ee9a55570ba268bc00492bb1c330f8b0d7c1f4537fb900d",
+      "role": "user",
+      "status": "active",
+      "email": ""
+    },
+    {
+      "username": "Fisch",
+      "hash": "3c2351561a5a8e2fad0cc984ac8724a021ec729578da037821f745109c1f45a0",
       "role": "user",
       "status": "active",
       "email": ""
